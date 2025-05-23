@@ -1,0 +1,7 @@
+name = "sharifgptwebsite1"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+MERCHANT_ID = "34cb37f4-920c-49da-bfa0-229a91ed98bd"
+SANDBOX = false 
